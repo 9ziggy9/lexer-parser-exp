@@ -1,0 +1,4 @@
+* Experiments in Writing Languages in C
+This repo is organized into by branch.
+** simple-lexer
+A simple lexer emulating some regex functionality.
